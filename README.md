@@ -1,5 +1,4 @@
 # Normalization
-Median-by-ratio normalization of RNAseq data
 
 
 Perform median-by-ratio normalization on RNAseq data
