@@ -1,4 +1,3 @@
-X11()
 # Input:
 # [FileNameIn] 
 # [OutputName] 
